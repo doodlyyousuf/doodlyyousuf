@@ -7,7 +7,7 @@
 **Made by doodlyyousuf**
 
 <a href="https://github.com/doodlyyousuf">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0B69FF&center=true&vCenter=true&width=560&lines=Welcome+to+my+profile;Made+by+doodlyyousuf;Thanks+for+stopping+by" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2000&pause=700&color=0B69FF&center=true&vCenter=true&repeat=true&width=600&lines=Doodlyyousuf;Gamer+%2B+Developer;Code.+Play.+Repeat.;Never+Dies" alt="typing" />
 </a>
 
 <br/>
@@ -17,6 +17,16 @@
 <img src="https://komarev.com/ghpvc/?username=doodlyyousuf&style=for-the-badge&color=0B69FF&label=VISITORS" alt="visitors" />
 
 </div>
+
+---
+
+## 🚀 About Me
+
+- 🎮 Passionate Gamer
+- 💻 Web Developer
+- 🧠 Always learning new tech
+- ⚡ Love building creative and futuristic projects
+- 💬 Discord: **Doodlyyousuf#6171**
 
 ---
 
@@ -49,6 +59,35 @@
 ## Streak
 
 <img src="https://streak-stats.demolab.com?user=doodlyyousuf&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0B69FF&fire=0B69FF&currStreakLabel=0B69FF" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B69FF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://github.com/doodlyyousuf">
+  <img src="https://img.shields.io/badge/GitHub-doodlyyousuf-0B69FF?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+
+Follow for cool projects and experiments - always building something new.
 
 </div>
 
