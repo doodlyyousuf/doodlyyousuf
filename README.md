@@ -111,8 +111,8 @@ and many others...
 </a>
 <img src="https://img.shields.io/badge/Discord-doodlyyousuf-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 <img src="https://img.shields.io/badge/WhatsApp-doodlyyousuf-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-<a href="https://namemc.com/profile/doodlyyousuf">
-  <img src="https://img.shields.io/badge/NameMC-doodlyyousuf-121212?style=for-the-badge&logo=minecraft&logoColor=white" alt="namemc" />
+<a href="https://namemc.com/profile/doodly_yousuf">
+  <img src="https://img.shields.io/badge/NameMC-doodly__yousuf-222212?style=for-the-badge&logo=minecraft&logoColor=white" alt="namemc" />
 </a>
 <a href="https://guns.lol/doodlyyousuf">
   <img src="https://img.shields.io/badge/guns.lol-doodlyyousuf-0B69FF?style=for-the-badge" alt="guns.lol" />
