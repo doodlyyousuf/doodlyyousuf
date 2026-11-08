@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B69FF&height=200&section=header&text=doodlyyousuf&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="banner" />
 
-<a href="https://github.com/doodlyyousuf">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=800&color=0B69FF&center=true&vCenter=true&repeat=true&width=600&lines=Developer+%7C+Gamer;Front-end+%2B+Full-stack;Code.+Play.+Repeat." alt="typing" />
-</a>
-
-<br/>
+<h3>Developer · Gamer · Front-end + Full-stack</h3>
 
 <img src="https://img.shields.io/badge/Karachi-Pakistan-0B69FF?style=for-the-badge&labelColor=0d1117" alt="location" />
 <img src="https://komarev.com/ghpvc/?username=doodlyyousuf&style=for-the-badge&color=0B69FF&label=VISITORS" alt="visitors" />
@@ -35,37 +31,11 @@
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/doodlyyousuf/SydranMaps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doodlyyousuf&repo=SydranMaps&theme=tokyonight&hide_border=true" alt="SydranMaps" />
-</a>
-<!-- Add more pins: change repo=YourRepoName -->
-
-</div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doodlyyousuf&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doodlyyousuf&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="170" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=doodlyyousuf&theme=tokyonight&hide_border=true&ring=0B69FF&fire=0B69FF" alt="streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake.svg" />
-</picture>
 
 </div>
 
