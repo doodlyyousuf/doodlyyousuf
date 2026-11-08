@@ -1,136 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B69FF&height=220&section=header&text=doodlyyousuf&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Made%20by%20doodlyyousuf&descAlignY=58&descSize=18" alt="banner" />
-
-# 👑 doodlyyousuf
-
-**Made by doodlyyousuf**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B69FF&height=200&section=header&text=doodlyyousuf&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/doodlyyousuf">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2000&pause=700&color=0B69FF&center=true&vCenter=true&repeat=true&width=600&lines=Doodlyyousuf;Gamer+%2B+Developer;Code.+Play.+Repeat.;Never+Dies" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=800&color=0B69FF&center=true&vCenter=true&repeat=true&width=600&lines=Developer+%7C+Gamer;Front-end+%2B+Full-stack;Code.+Play.+Repeat." alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%91%91-doodlyyousuf-0B69FF?style=for-the-badge&labelColor=0d1117" alt="crown" />
-<img src="https://img.shields.io/badge/Profile-Welcome-0B69FF?style=for-the-badge&logo=github&logoColor=white" alt="profile" />
+<img src="https://img.shields.io/badge/Karachi-Pakistan-0B69FF?style=for-the-badge&labelColor=0d1117" alt="location" />
 <img src="https://komarev.com/ghpvc/?username=doodlyyousuf&style=for-the-badge&color=0B69FF&label=VISITORS" alt="visitors" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎮 Passionate Gamer
-- 💻 Web Developer
-- 🧠 Always learning new tech
-- ⚡ Love building creative and futuristic projects
-- 🔐 Like finding small security breaches on websites, just for fun
+- 💻 Web developer: front-end, full-stack and a bit of IT administration
+- 🎮 Gamer who builds Minecraft tools, mods and Discord bots
+- 🔐 Interested in web security and responsible disclosure
+- 🧠 Always learning, always shipping side projects
 - 💬 Discord: **doodlyyousuf**
 
 ---
 
-<div align="center">
-
-## 👑 My Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doodlyyousuf&theme=github)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doodlyyousuf&theme=nord_dark" alt="stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=doodlyyousuf&theme=nord_dark&utcOffset=5.5" alt="productive time" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doodlyyousuf&theme=nord_dark" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=doodlyyousuf&theme=nord_dark" alt="most commit language" />
-
-</div>
-
----
-
-<div align="center">
-
-## Streak
-
-<img src="https://streak-stats.demolab.com?user=doodlyyousuf&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0B69FF&fire=0B69FF&currStreakLabel=0B69FF" alt="streak" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
-<img src="https://img.shields.io/badge/Material_Design-0B69FF?style=for-the-badge&logo=materialdesign&logoColor=white" alt="material" />
-<img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=matlab&logoColor=white" alt="matlab" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,py,fastapi,nodejs,cpp,cs,matlab" alt="tech stack" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/doodlyyousuf/SydranMaps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doodlyyousuf&repo=SydranMaps&theme=tokyonight&hide_border=true" alt="SydranMaps" />
+</a>
+<!-- Add more pins: change repo=YourRepoName -->
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=doodlyyousuf&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doodlyyousuf&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=doodlyyousuf&theme=tokyonight&hide_border=true&ring=0B69FF&fire=0B69FF" alt="streak" />
 
 <br/><br/>
 
-and many others...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://github.com/doodlyyousuf">
-  <img src="https://img.shields.io/badge/GitHub-doodlyyousuf-0B69FF?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://instagram.com/doodlyyousuf">
-  <img src="https://img.shields.io/badge/Instagram-doodlyyousuf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-<a href="https://facebook.com/doodlyyousuf">
-  <img src="https://img.shields.io/badge/Facebook-doodlyyousuf-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-</a>
-<a href="https://www.threads.net/@doodlyyousuf">
-  <img src="https://img.shields.io/badge/Threads-doodlyyousuf-000000?style=for-the-badge&logo=threads&logoColor=white" alt="threads" />
-</a>
-<img src="https://img.shields.io/badge/Discord-doodlyyousuf-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-<img src="https://img.shields.io/badge/WhatsApp-doodlyyousuf-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-<a href="https://namemc.com/profile/doodly_yousuf">
-  <img src="https://img.shields.io/badge/NameMC-doodly__yousuf-222212?style=for-the-badge&logo=minecraft&logoColor=white" alt="namemc" />
-</a>
-<a href="https://guns.lol/doodlyyousuf">
-  <img src="https://img.shields.io/badge/guns.lol-doodlyyousuf-0B69FF?style=for-the-badge" alt="guns.lol" />
-</a>
-
-and many others - all under the name **doodlyyousuf**.
-
-</div>
-
----
+## 🌐 Connect
 
 <div align="center">
 
-<sub>👑 Made by doodlyyousuf</sub>
+<a href="https://github.com/doodlyyousuf"><img src="https://img.shields.io/badge/GitHub-0B69FF?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://instagram.com/doodlyyousuf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://facebook.com/doodlyyousuf"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.threads.net/@doodlyyousuf"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="threads" /></a>
+<a href="https://namemc.com/profile/doodly_yousuf"><img src="https://img.shields.io/badge/NameMC-222212?style=for-the-badge&logo=minecraft&logoColor=white" alt="namemc" /></a>
+<a href="https://guns.lol/doodlyyousuf"><img src="https://img.shields.io/badge/guns.lol-0B69FF?style=for-the-badge" alt="guns.lol" /></a>
+
+<br/><br/>
+<sub>👑 doodlyyousuf</sub>
 
 </div>
