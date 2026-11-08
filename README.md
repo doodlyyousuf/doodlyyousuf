@@ -38,7 +38,15 @@
 <img src="https://streak-stats.demolab.com?user=doodlyyousuf&theme=tokyonight&hide_border=true&ring=0B69FF&fire=0B69FF" alt="streak" />
 
 </div>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/doodlyyousuf/doodlyyousuf/output/github-snake.svg" />
+</picture>
+
+</div>
 ---
 
 ## 🌐 Connect
