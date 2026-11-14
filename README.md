@@ -4,7 +4,7 @@
 
 <h3>Developer · Gamer · Front-end + Full-stack</h3>
 
-<img src="https://img.shields.io/badge/Karachi-Pakistan-0B69FF?style=for-the-badge&labelColor=0d1117" alt="location" />
+<img src="https://img.shields.io/badge/Karachi-Pakistan-0B69FF?style=for-the-badge&labelColor=555555" alt="location" />
 <img src="https://komarev.com/ghpvc/?username=doodlyyousuf&style=for-the-badge&color=0B69FF&label=VISITORS" alt="visitors" />
 
 </div>
